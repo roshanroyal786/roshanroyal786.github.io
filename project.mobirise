@@ -46,7 +46,7 @@
               "color": "#000000",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "22px",
+              "font-size": "24px",
               "text-align": "left"
             }
           },
@@ -71,7 +71,7 @@
             "showArrow": true
           },
           "title": "Hello!",
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp;I am Roshan Negi, Delhi based Designer</p>",
+          "text": "<p>&nbsp; &nbsp; I am Roshan Negi, Delhi based Designer</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
