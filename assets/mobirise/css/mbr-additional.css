@@ -55,54 +55,14 @@
 }
 
 
-
-
-
-
-
-#header2-r H1 {
-  color: #fac51c;
-  font-family: 'Roboto Slab', serif;
-  font-size: 84px;
-  text-align: center;
-}
-#header2-r P {
+#header2-x H1 {
+  text-align: right;
   color: #000000;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 22px;
-  text-align: left;
-}
-#header3-s H3 {
-  text-align: center;
-  font-family: 'Roboto Slab', serif;
-  font-size: 25px;
-  color: #252525;
-}
-#header3-s P {
-  text-align: center;
-}
-#header2-t H1 {
-  text-align: center;
-  color: #252525;
   font-family: 'Roboto Slab', serif;
   font-size: 72px;
 }
-#header2-t P {
-  text-align: center;
-  color: #252525;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
-}
-#header2-u H1 {
-  color: #252525;
+#header2-z H1 {
+  color: #000000;
   font-family: 'Roboto Slab', serif;
-  font-size: 80px;
-}
-#msg-box3-w .mbr-header .mbr-header__text {
-  text-align: center;
-  font-family: 'Roboto Slab', serif;
-  font-size: 60px;
-}
-#msg-box3-w .mbr-header .mbr-header__subtext {
-  text-align: center;
+  font-size: 48px;
 }

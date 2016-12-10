@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "minimalartist.com",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 33,
+    "uniqCompNum": 36,
     "versionPublish": "3.10",
     "publishType": "github"
   },
@@ -295,7 +295,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "",
+        "title": "Contact",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -309,27 +309,11 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
-          "_styles": {
-            "H1": {
-              "color": "#fac51c",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "84px",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#000000",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "22px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header2-r",
+          "_anchor": "header2-x",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1026-61.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-us-2000x1333-33.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -345,80 +329,18 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "Hello!",
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp;I am Roshan Negi, Delhi based Designer</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "25px",
-              "color": "#252525"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-s",
-          "title": "I create&nbsp;minimal design.sleek,simple<br>easy convey&nbsp;to audience.",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": ""
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header2",
+          "title": "+919871167707",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_styles": {
             "H1": {
-              "text-align": "center",
-              "color": "#252525",
+              "text-align": "right",
+              "color": "#000000",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "font-size": "72px"
-            },
-            "P": {
-              "text-align": "center",
-              "color": "#252525",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "20px"
             }
-          },
-          "_anchor": "header2-t",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
-            "bgColor": "#fac51c",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "title": "introduction",
-          "text": "i am roshan negi,<br>21 year old delhi based designer,<br>i have 6 months experience<br>in brand designing,<br>and 6 months experience<br>in web designing.<br>i spent my spare time in creating&nbsp;llustration,<br>sometime photography too.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          }
         },
         {
           "_inherit": "header1",
@@ -427,21 +349,13 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
-          "_styles": {
-            "H1": {
-              "color": "#252525",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "80px"
-            }
-          },
-          "_anchor": "header2-u",
+          "_anchor": "header2-z",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
-            "bgColor": "#fac51c",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/email-2000x1333-46.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -453,122 +367,19 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": true
           },
-          "title": "my work",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-99-2000x2000-58.png",
-                "image": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-99.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-59-2000x2000-6.jpg",
-                "image": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-59.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-77-2000x2000-83.png",
-                "image": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-77.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-75-2000x2000-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-75.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-4-2000x2000-98.jpg",
-                "image": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-4.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-41-2000x2000-79.png",
-                "image": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-41.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-57-2000x2000-91.jpg",
-                "image": "@PROJECT_PATH@/assets/images/d89c5e29535083-2000x2000-57.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-97-2000x2000-22.png",
-                "image": "@PROJECT_PATH@/assets/images/59404645477329-2000x2000-97.png",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#fac51c",
-            "fullWidth": false,
-            "noGutter": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-v",
-          "articleLayout": false
-        },
-        {
+          "title": "<br><br><br><br>minimalaartist@gmail.com",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
+            "H1": {
+              "color": "#000000",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "60px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
+              "font-size": "48px"
             }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-w",
-          "_params": {
-            "showCaption": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "showTitle": true,
-            "showText": false,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-11-at-1-2000x1313-20.png",
-            "bgColor": "#fac51c",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "Contact &nbsp;me",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a> "
+          }
         }
       ]
     }
