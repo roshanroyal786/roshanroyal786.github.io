@@ -10,7 +10,11 @@
     "versionFirst": "3.10",
     "uniqCompNum": 36,
     "versionPublish": "3.10",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -289,7 +293,7 @@
           "title": "Contact &nbsp;me",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"roshanroyal786.github.io/page2.html\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>  "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>  "
         }
       ]
     },
