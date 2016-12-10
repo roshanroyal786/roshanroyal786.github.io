@@ -14,7 +14,8 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishPath": ""
   },
   "pages": {
     "index.html": {
